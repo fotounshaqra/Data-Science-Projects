@@ -1,2 +1,2 @@
 # Data-Science-Projects
-Data Science/Analytics to improve my technical skills
+Data Science/Analytics projects to improve my technical skills
